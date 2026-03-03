@@ -440,8 +440,8 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4">Contato</h4>
               <ul className="space-y-2 text-sm text-white/60">
-                <li><a href="mailto:contato@studioct.com" className="hover:text-white transition">contato@studioct.com</a></li>
-                <li><a href="tel:+5511999999999" className="hover:text-white transition">+55 (11) 99999-9999</a></li>
+                <li><a href="mailto:contato@studioct.com" className="hover:text-white transition">isprintstudio@gmail.com</a></li>
+                <li><a href="tel:+5511999999999" className="hover:text-white transition">+55 (83) 99185-4711</a></li>
               </ul>
             </div>
           </div>
